@@ -1,6 +1,6 @@
 # Beginner Code Lab 
 
-**Beginner Code Lab** is a multi-language coding playground designed for beginners who want to learn by doing! Whether you're exploring web development, backend programming, or mobile app creation, this repository is your hands-on companion to practice, break, and build things in code.
+**Beginner Code Lab** is a multi-language coding playground designed for beginners who want to learn by doing! Whether you're exploring web development, backend programming, database, or mobile app creation, this repository is your hands-on companion to practice, break, and build things in code.
 
 ---
 
