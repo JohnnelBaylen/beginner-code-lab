@@ -1,8 +1,9 @@
+import Card from '@components/Card';
 
 function Root(){
     return(
         <>
-            <h1>Loading.....</h1>
+            <Card/>
         </>
     );
 }
