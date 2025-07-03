@@ -1,1 +1,0 @@
-document.getElementById("demo").innerHTML = "<h1>JavaScript Demo</h1>";
