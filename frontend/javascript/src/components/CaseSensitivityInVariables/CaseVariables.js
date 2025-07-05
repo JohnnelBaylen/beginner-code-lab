@@ -6,7 +6,7 @@ const camelCase = "thisISCamelCase";
 const snake_case = "THIS_IS_SNAKE_CASE";
 
 // Pascal Case 
-const PascalCase = "ThisIsPascalCASE";
+const PascalCase = "ThisIsPascalCase";
 
 // Kebab Case
 const kebabcase = "this-is-kebab-case";
