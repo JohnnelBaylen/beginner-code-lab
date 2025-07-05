@@ -1,6 +1,6 @@
 import Card from '@components/Card';
 
-function Root(){
+export default function Root(){
     return(
         <>
             <Card/>
@@ -8,4 +8,3 @@ function Root(){
     );
 }
 
-export default Root;
