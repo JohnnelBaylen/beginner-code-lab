@@ -1,0 +1,5 @@
+flex-wrap :    
+   
+   - nowrap: Every item is fit to a single line.
+   - wrap: Items wrap around to additional lines.
+   - wrap-reverse: Items wrap around to additional lines in reverse.
