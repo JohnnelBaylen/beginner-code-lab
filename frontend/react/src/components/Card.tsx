@@ -1,9 +1,17 @@
+import '@styles/card.css';
 
-export default  function Card (){
-    return(
-        <section>
-            <h2>Loading.....</h2>
-        </section>
-    );
+interface CardProps {
+  title: string;
+  content: string;
 }
 
+export default function Card({ title, content }: CardProps) {
+  return (
+    <>
+        <section className="card">
+            <h2 className="card-title">{title}</h2>
+            <p className="card-content">{content}</p>
+        </section>
+    </>
+  );
+}
