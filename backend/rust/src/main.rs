@@ -1,6 +1,5 @@
 fn main() {
-
-    let message = "Hello, World";
+    let message = "Hello, John Doe";
 
     println!("{}", message);
 }
