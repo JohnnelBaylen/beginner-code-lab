@@ -1,6 +1,6 @@
 # Beginner Code Lab 
 
-**Beginner Code Lab** is a multi-language coding playground designed for beginners who want to learn by doing! Whether you're exploring web development, backend programming, database, or mobile app creation, this repository is your hands-on companion to practice, break, and build things in code.
+**Beginner Code Lab** is a multi-language coding playground designed for beginners who want to learn by doing. Whether you're exploring web development, backend programming, and database, creation, this repository is your hands-on companion to practice, break, and build things in code.
 
 ---
 
@@ -43,11 +43,6 @@ multi-lang/
 |   ├── postgresql/ 
 |   ├── sql/ 
 │          
-├── mobile/
-|   ├── flutter/ 
-|   ├── kotlin/ 
-|   ├── reactnative/ 
-|   └── swift/ 
 
 
 ````
@@ -79,12 +74,6 @@ This project is designed for:
 - **Java** – Syntax, functions, console applications
 - **Go** – Simple servers, syntax, and concurrency
 - **C/C++** – Console apps, logic building, pointers
-
-### Mobile
-- **Flutter** – Widgets, layout, and navigation
-- **Kotlin** – Android basics and logic
-- **React Native** – Cross-platform UI with JS
-- **Swift** – iOS UI and app logic
 
 ---
 
