@@ -9,7 +9,7 @@ public class QueueExample {
         // Create a Queue of Integers using LinkedList
         Queue<String> queue = new LinkedList<>();
 
-        // add elements 
+        // Add elements 
         queue.add("apple");
         queue.add("banana");
         queue.add("cherry");
@@ -18,22 +18,20 @@ public class QueueExample {
         System.out.println("Queue elements: " + queue);
 
         // Remove the element at the front of the queue
-        String front = queue.remove();
-        System.out.println("Removed element: " + front);
+        String Dequeue = queue.remove();
+        System.out.println("\nRemoved element: " + Dequeue);
 
         // Print the updated queue
-        System.out.println("Queue after removal: " + queue);
+        System.out.println("\nQueue after removal: " + queue);
 
         // Add another element to the queue
-        queue.add("date");
+        queue.add("orange");
 
         // Peek at the element at the front of the queue
-        String peeked = queue.peek();
-        System.out.println("Peeked element: " + peeked);
+        String Enqueue = queue.peek();
+        System.out.println("\nPeeked element: " + Enqueue);
 
         // Print the updated queue
-        System.out.println("Queue after peek: " + queue);
+        System.out.println("\nQueue after peek: " + queue);
     }
 }
-
-
