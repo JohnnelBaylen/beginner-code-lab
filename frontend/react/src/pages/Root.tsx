@@ -1,9 +1,11 @@
-import Card from '@components/Card';
+import Navbar from '@components/Navbar';
+
 
 export default function Root(){
     return(
         <>
-            <Card title="Characters Name" content="This is the card content." />
+            <Navbar/>    
+
         </>
     );
 }
