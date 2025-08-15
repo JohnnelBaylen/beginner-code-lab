@@ -7,7 +7,6 @@ export default function Root(){
             <Navbar/>    
 
         </>
-
     );
 }
 
