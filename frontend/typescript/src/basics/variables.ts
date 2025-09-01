@@ -1,4 +1,4 @@
-let greetings: string = "Hello, John";
+let greetings: string = "hello, john";
 greetings.toLowerCase();
 
 console.log(greetings);
