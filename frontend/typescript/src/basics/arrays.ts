@@ -6,5 +6,10 @@ console.log(names)
 
 const numbers = [1, 2, 3]
 numbers.push(3)
+// numbers.push("5")
 
-console.log(numbers)
+let head: number = numbers[0]
+
+console.log(head)
+
+
